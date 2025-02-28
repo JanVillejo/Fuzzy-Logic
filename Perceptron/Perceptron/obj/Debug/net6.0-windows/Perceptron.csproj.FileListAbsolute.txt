@@ -1,0 +1,17 @@
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\bin\Debug\net6.0-windows\Perceptron.exe
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\bin\Debug\net6.0-windows\Perceptron.deps.json
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\bin\Debug\net6.0-windows\Perceptron.runtimeconfig.json
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\bin\Debug\net6.0-windows\Perceptron.dll
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\bin\Debug\net6.0-windows\Perceptron.pdb
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.csproj.AssemblyReference.cache
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.Form1.resources
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.csproj.GenerateResource.cache
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.AssemblyInfoInputs.cache
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.AssemblyInfo.cs
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.dll
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\refint\Perceptron.dll
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.pdb
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\Perceptron.genruntimeconfig.cache
+C:\Users\JanAntonette Villejo\Desktop\Perceptron\Perceptron\obj\Debug\net6.0-windows\ref\Perceptron.dll
